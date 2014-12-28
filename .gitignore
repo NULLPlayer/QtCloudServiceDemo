@@ -1,0 +1,22 @@
+*.app/
+.DS_Store
+
+# Folders
+build
+lib
+
+# Generated
+Makefile
+*.o
+moc_*
+
+# Docs
+docs
+docs/html
+
+# Build folders
+*/debug
+*/release
+*/*/debug
+*/*/release
+
